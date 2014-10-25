@@ -61,7 +61,6 @@
    int *px;
    px = &x;
    
-   
    cout << x << endl;
    cout << &x << endl;
    
